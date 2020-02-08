@@ -1,0 +1,7 @@
+d:\C#\delegate type\delegate type\bin\Debug\delegate type.exe.config
+d:\C#\delegate type\delegate type\bin\Debug\delegate type.exe
+d:\C#\delegate type\delegate type\bin\Debug\delegate type.pdb
+d:\C#\delegate type\delegate type\obj\Debug\delegate type.csprojResolveAssemblyReference.cache
+d:\C#\delegate type\delegate type\obj\Debug\delegate type.csproj.CoreCompileInputs.cache
+d:\C#\delegate type\delegate type\obj\Debug\delegate type.exe
+d:\C#\delegate type\delegate type\obj\Debug\delegate type.pdb

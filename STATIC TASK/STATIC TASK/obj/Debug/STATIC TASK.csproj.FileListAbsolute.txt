@@ -1,0 +1,7 @@
+d:\C#\STATIC TASK\STATIC TASK\bin\Debug\STATIC TASK.exe.config
+d:\C#\STATIC TASK\STATIC TASK\bin\Debug\STATIC TASK.exe
+d:\C#\STATIC TASK\STATIC TASK\bin\Debug\STATIC TASK.pdb
+d:\C#\STATIC TASK\STATIC TASK\obj\Debug\STATIC TASK.csprojResolveAssemblyReference.cache
+d:\C#\STATIC TASK\STATIC TASK\obj\Debug\STATIC TASK.csproj.CoreCompileInputs.cache
+d:\C#\STATIC TASK\STATIC TASK\obj\Debug\STATIC TASK.exe
+d:\C#\STATIC TASK\STATIC TASK\obj\Debug\STATIC TASK.pdb

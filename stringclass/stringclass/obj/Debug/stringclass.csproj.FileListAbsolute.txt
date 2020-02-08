@@ -1,0 +1,7 @@
+d:\C#\stringclass\stringclass\bin\Debug\stringclass.exe.config
+d:\C#\stringclass\stringclass\bin\Debug\stringclass.exe
+d:\C#\stringclass\stringclass\bin\Debug\stringclass.pdb
+d:\C#\stringclass\stringclass\obj\Debug\stringclass.csprojResolveAssemblyReference.cache
+d:\C#\stringclass\stringclass\obj\Debug\stringclass.csproj.CoreCompileInputs.cache
+d:\C#\stringclass\stringclass\obj\Debug\stringclass.exe
+d:\C#\stringclass\stringclass\obj\Debug\stringclass.pdb

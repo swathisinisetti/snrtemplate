@@ -1,0 +1,7 @@
+d:\C#\abstracttask\abstracttask\bin\Debug\abstracttask.exe.config
+d:\C#\abstracttask\abstracttask\bin\Debug\abstracttask.exe
+d:\C#\abstracttask\abstracttask\bin\Debug\abstracttask.pdb
+d:\C#\abstracttask\abstracttask\obj\Debug\abstracttask.csprojResolveAssemblyReference.cache
+d:\C#\abstracttask\abstracttask\obj\Debug\abstracttask.csproj.CoreCompileInputs.cache
+d:\C#\abstracttask\abstracttask\obj\Debug\abstracttask.exe
+d:\C#\abstracttask\abstracttask\obj\Debug\abstracttask.pdb

@@ -1,0 +1,7 @@
+d:\C#\aggregation\aggregation\obj\Debug\aggregation.csprojResolveAssemblyReference.cache
+d:\C#\aggregation\aggregation\obj\Debug\aggregation.csproj.CoreCompileInputs.cache
+d:\C#\aggregation\aggregation\bin\Debug\aggregation.exe.config
+d:\C#\aggregation\aggregation\bin\Debug\aggregation.exe
+d:\C#\aggregation\aggregation\bin\Debug\aggregation.pdb
+d:\C#\aggregation\aggregation\obj\Debug\aggregation.exe
+d:\C#\aggregation\aggregation\obj\Debug\aggregation.pdb

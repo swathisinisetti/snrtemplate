@@ -1,0 +1,7 @@
+d:\C#\caluclator\caluclator\obj\Debug\caluclator.csprojResolveAssemblyReference.cache
+d:\C#\caluclator\caluclator\obj\Debug\caluclator.csproj.CoreCompileInputs.cache
+d:\C#\caluclator\caluclator\bin\Debug\caluclator.exe.config
+d:\C#\caluclator\caluclator\bin\Debug\caluclator.exe
+d:\C#\caluclator\caluclator\bin\Debug\caluclator.pdb
+d:\C#\caluclator\caluclator\obj\Debug\caluclator.exe
+d:\C#\caluclator\caluclator\obj\Debug\caluclator.pdb

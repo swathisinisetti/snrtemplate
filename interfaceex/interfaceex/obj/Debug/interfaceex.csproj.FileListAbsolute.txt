@@ -1,0 +1,7 @@
+d:\C#\interfaceex\interfaceex\bin\Debug\interfaceex.exe.config
+d:\C#\interfaceex\interfaceex\bin\Debug\interfaceex.exe
+d:\C#\interfaceex\interfaceex\bin\Debug\interfaceex.pdb
+d:\C#\interfaceex\interfaceex\obj\Debug\interfaceex.csprojResolveAssemblyReference.cache
+d:\C#\interfaceex\interfaceex\obj\Debug\interfaceex.csproj.CoreCompileInputs.cache
+d:\C#\interfaceex\interfaceex\obj\Debug\interfaceex.exe
+d:\C#\interfaceex\interfaceex\obj\Debug\interfaceex.pdb

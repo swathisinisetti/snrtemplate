@@ -1,0 +1,9 @@
+d:\C#\usingcalcilib\usingcalcilib\bin\Debug\usingcalcilib.exe.config
+d:\C#\usingcalcilib\usingcalcilib\bin\Debug\usingcalcilib.exe
+d:\C#\usingcalcilib\usingcalcilib\bin\Debug\usingcalcilib.pdb
+d:\C#\usingcalcilib\usingcalcilib\bin\Debug\calci.dll
+d:\C#\usingcalcilib\usingcalcilib\bin\Debug\calci.pdb
+d:\C#\usingcalcilib\usingcalcilib\obj\Debug\usingcalcilib.csprojResolveAssemblyReference.cache
+d:\C#\usingcalcilib\usingcalcilib\obj\Debug\usingcalcilib.csproj.CoreCompileInputs.cache
+d:\C#\usingcalcilib\usingcalcilib\obj\Debug\usingcalcilib.exe
+d:\C#\usingcalcilib\usingcalcilib\obj\Debug\usingcalcilib.pdb

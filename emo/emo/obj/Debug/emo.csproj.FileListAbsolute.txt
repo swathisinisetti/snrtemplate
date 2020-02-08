@@ -1,0 +1,7 @@
+d:\C#\emo\emo\bin\Debug\emo.exe.config
+d:\C#\emo\emo\bin\Debug\emo.exe
+d:\C#\emo\emo\bin\Debug\emo.pdb
+d:\C#\emo\emo\obj\Debug\emo.csprojResolveAssemblyReference.cache
+d:\C#\emo\emo\obj\Debug\emo.csproj.CoreCompileInputs.cache
+d:\C#\emo\emo\obj\Debug\emo.exe
+d:\C#\emo\emo\obj\Debug\emo.pdb

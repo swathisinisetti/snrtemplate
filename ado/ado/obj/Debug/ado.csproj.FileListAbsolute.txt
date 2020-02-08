@@ -1,0 +1,7 @@
+d:\c#\ado\ado\bin\Debug\ado.exe.config
+d:\c#\ado\ado\bin\Debug\ado.exe
+d:\c#\ado\ado\bin\Debug\ado.pdb
+d:\c#\ado\ado\obj\Debug\ado.csprojResolveAssemblyReference.cache
+d:\c#\ado\ado\obj\Debug\ado.csproj.CoreCompileInputs.cache
+d:\c#\ado\ado\obj\Debug\ado.exe
+d:\c#\ado\ado\obj\Debug\ado.pdb

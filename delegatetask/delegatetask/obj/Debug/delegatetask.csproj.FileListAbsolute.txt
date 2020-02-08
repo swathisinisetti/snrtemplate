@@ -1,0 +1,7 @@
+d:\C#\delegatetask\delegatetask\bin\Debug\delegatetask.exe.config
+d:\C#\delegatetask\delegatetask\bin\Debug\delegatetask.exe
+d:\C#\delegatetask\delegatetask\bin\Debug\delegatetask.pdb
+d:\C#\delegatetask\delegatetask\obj\Debug\delegatetask.csprojResolveAssemblyReference.cache
+d:\C#\delegatetask\delegatetask\obj\Debug\delegatetask.csproj.CoreCompileInputs.cache
+d:\C#\delegatetask\delegatetask\obj\Debug\delegatetask.exe
+d:\C#\delegatetask\delegatetask\obj\Debug\delegatetask.pdb

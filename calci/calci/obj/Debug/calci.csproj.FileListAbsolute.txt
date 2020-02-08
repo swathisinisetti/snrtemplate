@@ -1,0 +1,5 @@
+D:\C#\calci\calci\bin\Debug\calci.dll
+D:\C#\calci\calci\bin\Debug\calci.pdb
+D:\C#\calci\calci\obj\Debug\calci.csproj.CoreCompileInputs.cache
+D:\C#\calci\calci\obj\Debug\calci.dll
+D:\C#\calci\calci\obj\Debug\calci.pdb

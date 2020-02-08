@@ -1,0 +1,7 @@
+d:\C#\cont\cont\bin\Debug\cont.exe.config
+d:\C#\cont\cont\bin\Debug\cont.exe
+d:\C#\cont\cont\bin\Debug\cont.pdb
+d:\C#\cont\cont\obj\Debug\cont.csprojResolveAssemblyReference.cache
+d:\C#\cont\cont\obj\Debug\cont.csproj.CoreCompileInputs.cache
+d:\C#\cont\cont\obj\Debug\cont.exe
+d:\C#\cont\cont\obj\Debug\cont.pdb

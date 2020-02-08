@@ -1,0 +1,6 @@
+d:\C#\fileoperationstask\fileoperationstask\bin\Debug\fileoperationstask.exe.config
+d:\C#\fileoperationstask\fileoperationstask\bin\Debug\fileoperationstask.exe
+d:\C#\fileoperationstask\fileoperationstask\bin\Debug\fileoperationstask.pdb
+d:\C#\fileoperationstask\fileoperationstask\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+d:\C#\fileoperationstask\fileoperationstask\obj\Debug\fileoperationstask.exe
+d:\C#\fileoperationstask\fileoperationstask\obj\Debug\fileoperationstask.pdb

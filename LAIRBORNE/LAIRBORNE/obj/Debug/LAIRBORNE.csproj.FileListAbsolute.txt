@@ -1,0 +1,7 @@
+d:\C#\LAIRBORNE\LAIRBORNE\obj\Debug\LAIRBORNE.csprojResolveAssemblyReference.cache
+d:\C#\LAIRBORNE\LAIRBORNE\obj\Debug\LAIRBORNE.csproj.CoreCompileInputs.cache
+d:\C#\LAIRBORNE\LAIRBORNE\bin\Debug\LAIRBORNE.exe.config
+d:\C#\LAIRBORNE\LAIRBORNE\bin\Debug\LAIRBORNE.exe
+d:\C#\LAIRBORNE\LAIRBORNE\bin\Debug\LAIRBORNE.pdb
+d:\C#\LAIRBORNE\LAIRBORNE\obj\Debug\LAIRBORNE.exe
+d:\C#\LAIRBORNE\LAIRBORNE\obj\Debug\LAIRBORNE.pdb

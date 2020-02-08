@@ -1,0 +1,7 @@
+d:\C#\arrays\arrays\bin\Debug\arrays.exe.config
+d:\C#\arrays\arrays\bin\Debug\arrays.exe
+d:\C#\arrays\arrays\bin\Debug\arrays.pdb
+d:\C#\arrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+d:\C#\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+d:\C#\arrays\arrays\obj\Debug\arrays.exe
+d:\C#\arrays\arrays\obj\Debug\arrays.pdb

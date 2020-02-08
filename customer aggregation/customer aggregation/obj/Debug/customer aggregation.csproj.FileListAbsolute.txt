@@ -1,0 +1,7 @@
+d:\C#\customer aggregation\customer aggregation\obj\Debug\customer aggregation.csprojResolveAssemblyReference.cache
+d:\C#\customer aggregation\customer aggregation\obj\Debug\customer aggregation.csproj.CoreCompileInputs.cache
+d:\C#\customer aggregation\customer aggregation\bin\Debug\customer aggregation.exe.config
+d:\C#\customer aggregation\customer aggregation\bin\Debug\customer aggregation.exe
+d:\C#\customer aggregation\customer aggregation\bin\Debug\customer aggregation.pdb
+d:\C#\customer aggregation\customer aggregation\obj\Debug\customer aggregation.exe
+d:\C#\customer aggregation\customer aggregation\obj\Debug\customer aggregation.pdb

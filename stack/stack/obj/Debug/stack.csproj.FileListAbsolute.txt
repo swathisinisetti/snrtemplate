@@ -1,0 +1,2 @@
+d:\C#\stack\stack\obj\Debug\stack.csprojResolveAssemblyReference.cache
+d:\C#\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\C#\addition\addition\bin\Debug\addition.exe.config
+D:\C#\addition\addition\bin\Debug\addition.exe
+D:\C#\addition\addition\bin\Debug\addition.pdb
+D:\C#\addition\addition\obj\Debug\addition.csprojResolveAssemblyReference.cache
+D:\C#\addition\addition\obj\Debug\addition.csproj.CoreCompileInputs.cache
+D:\C#\addition\addition\obj\Debug\addition.exe
+D:\C#\addition\addition\obj\Debug\addition.pdb

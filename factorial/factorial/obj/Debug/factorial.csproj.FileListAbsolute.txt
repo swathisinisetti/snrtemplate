@@ -1,0 +1,7 @@
+D:\C#\factorial\factorial\bin\Debug\factorial.exe.config
+D:\C#\factorial\factorial\bin\Debug\factorial.exe
+D:\C#\factorial\factorial\bin\Debug\factorial.pdb
+D:\C#\factorial\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+D:\C#\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+D:\C#\factorial\factorial\obj\Debug\factorial.exe
+D:\C#\factorial\factorial\obj\Debug\factorial.pdb

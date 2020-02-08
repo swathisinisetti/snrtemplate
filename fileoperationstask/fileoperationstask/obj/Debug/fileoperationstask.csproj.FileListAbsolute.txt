@@ -1,0 +1,2 @@
+d:\C#\fileoperationstask\fileoperationstask\obj\Debug\fileoperationstask.csprojResolveAssemblyReference.cache
+d:\C#\fileoperationstask\fileoperationstask\obj\Debug\fileoperationstask.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+d:\C#\leapyearlib\leapyearlib\bin\Debug\leapyearlib.exe.config
+d:\C#\leapyearlib\leapyearlib\bin\Debug\leapyearlib.exe
+d:\C#\leapyearlib\leapyearlib\bin\Debug\leapyearlib.pdb
+d:\C#\leapyearlib\leapyearlib\bin\Debug\leapyear.dll
+d:\C#\leapyearlib\leapyearlib\bin\Debug\leapyear.pdb
+d:\C#\leapyearlib\leapyearlib\obj\Debug\leapyearlib.csprojResolveAssemblyReference.cache
+d:\C#\leapyearlib\leapyearlib\obj\Debug\leapyearlib.csproj.CoreCompileInputs.cache
+d:\C#\leapyearlib\leapyearlib\obj\Debug\leapyearlib.exe
+d:\C#\leapyearlib\leapyearlib\obj\Debug\leapyearlib.pdb

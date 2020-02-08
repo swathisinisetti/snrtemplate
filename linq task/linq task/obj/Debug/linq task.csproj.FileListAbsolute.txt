@@ -1,0 +1,7 @@
+d:\C#\linq task\linq task\bin\Debug\linq task.exe.config
+d:\C#\linq task\linq task\bin\Debug\linq task.exe
+d:\C#\linq task\linq task\bin\Debug\linq task.pdb
+d:\C#\linq task\linq task\obj\Debug\linq task.csprojResolveAssemblyReference.cache
+d:\C#\linq task\linq task\obj\Debug\linq task.csproj.CoreCompileInputs.cache
+d:\C#\linq task\linq task\obj\Debug\linq task.exe
+d:\C#\linq task\linq task\obj\Debug\linq task.pdb

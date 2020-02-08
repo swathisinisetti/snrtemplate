@@ -1,0 +1,7 @@
+d:\C#\generic type\generic type\bin\Debug\generic type.exe.config
+d:\C#\generic type\generic type\bin\Debug\generic type.exe
+d:\C#\generic type\generic type\bin\Debug\generic type.pdb
+d:\C#\generic type\generic type\obj\Debug\generic type.csprojResolveAssemblyReference.cache
+d:\C#\generic type\generic type\obj\Debug\generic type.csproj.CoreCompileInputs.cache
+d:\C#\generic type\generic type\obj\Debug\generic type.exe
+d:\C#\generic type\generic type\obj\Debug\generic type.pdb

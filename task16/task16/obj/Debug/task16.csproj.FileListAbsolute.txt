@@ -1,0 +1,7 @@
+d:\C#\task16\task16\obj\Debug\task16.csprojResolveAssemblyReference.cache
+d:\C#\task16\task16\obj\Debug\task16.csproj.CoreCompileInputs.cache
+d:\C#\task16\task16\bin\Debug\task16.exe.config
+d:\C#\task16\task16\bin\Debug\task16.exe
+d:\C#\task16\task16\bin\Debug\task16.pdb
+d:\C#\task16\task16\obj\Debug\task16.exe
+d:\C#\task16\task16\obj\Debug\task16.pdb

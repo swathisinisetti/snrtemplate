@@ -1,0 +1,7 @@
+D:\C#\functions\using fun\using fun\bin\Debug\using fun.exe.config
+D:\C#\functions\using fun\using fun\bin\Debug\using fun.exe
+D:\C#\functions\using fun\using fun\bin\Debug\using fun.pdb
+D:\C#\functions\using fun\using fun\obj\Debug\using fun.csprojResolveAssemblyReference.cache
+D:\C#\functions\using fun\using fun\obj\Debug\using fun.csproj.CoreCompileInputs.cache
+D:\C#\functions\using fun\using fun\obj\Debug\using fun.exe
+D:\C#\functions\using fun\using fun\obj\Debug\using fun.pdb
